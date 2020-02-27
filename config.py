@@ -1,8 +1,8 @@
 # This file holds pinylib's configuration.
 # Tinychat account.
-ACCOUNT = ''
+ACCOUNT = 'healthephoenix'
 # Password for account
-PASSWORD = ''
+PASSWORD = 'qwerty88'
 # The swf version that tinychat is currently using.
 SWF_VERSION = '0677'
 # Log chat messages and events.
